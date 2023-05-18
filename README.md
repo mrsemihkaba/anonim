@@ -1,0 +1,2 @@
+# anonim
+Gizlenme araç otomasyonu
